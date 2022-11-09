@@ -1,2 +1,0 @@
-class CreateSpecificationService {}
-export { CreateSpecificationService };
